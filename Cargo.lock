@@ -6,6 +6,8 @@ version = 3
 name = "demo-utoipa"
 version = "0.1.0"
 dependencies = [
+ "serde",
+ "serde_json",
  "utoipa",
 ]
 
